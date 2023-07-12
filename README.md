@@ -1,5 +1,14 @@
 # zadatak_metrika
 
+---
+-LOC:
+ license = 21 loc
+ Start.java = 26 loc
+ Calculator.java = 188 loc
+ All together = 235...
+-Cyclomatic Complexity:
+ Calculate = 12 moderate risk
+ evaluateExpression = 12 moderate risk
 -Observation:
  U kodu nedostaje komentara koji bi objasnili namjenu i logiku određenih delova.
  Dodavanje komentara može poboljšati čitljivost i razumijevanje koda, posebno za druge programere
